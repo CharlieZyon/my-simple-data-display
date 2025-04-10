@@ -41,3 +41,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Highlight cells with "不存在" */
+.status, .cart {
+    background-color: #ffcccc; /* Light red background */
+    font-weight: bold;
+}
